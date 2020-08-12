@@ -1,2 +1,2 @@
 # TDI
-# My Project Proposal as a finalist for The Data Incubator program.
+### This is my Project Proposal as a finalist for The Data Incubator program.
