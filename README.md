@@ -1,2 +1,2 @@
 # TDI
-### This is my Project Proposal for The Data Incubator program.
+### This is my Capstone Project for The Data Incubator program.
